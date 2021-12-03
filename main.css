@@ -99,3 +99,10 @@ footer {
     border-radius: 4px;
     border: 1px solid white;
 }
+
+w.dropdown {
+display: inline-block;
+transform: translate(0px, 7.4px) scalex(0.76);
+font-size: 22px;
+font-family: monospace;
+}
