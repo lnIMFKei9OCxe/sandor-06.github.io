@@ -5,7 +5,7 @@ body {
     border-right: 10% white solid;
     border-color: white;
     margin: auto;
-    filter: invert(100%);
+    filter: invert(100%); /* Just wanted to see if it looks better, and this is sometimes also helpful for finding styling glitches. Should probably be taken out though */
 }
 table {
     text-align:center;
