@@ -131,7 +131,7 @@ p {
 }
 p.pinput {
     border-bottom: 1px solid black;
-    padding-bottom: 0px;
+    padding-bottom: 3px;/* I think that would look better */
     margin-top: 0px;
     margin-bottom: 0px;
 }
